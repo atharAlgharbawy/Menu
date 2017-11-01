@@ -100,7 +100,7 @@ class myAdapter extends ArrayAdapter<String>{
         TextView my_name = (TextView) roow.findViewById(R.id.tv_namee);
         TextView my_price = (TextView) roow.findViewById(R.id.tv_price);
 
-        // set arrays in list
+        // set arrays in list view
         myImage.setImageResource(imgArray[position]);
         my_name.setText(namesArray[position]);
         my_price.setText(priceArray[position]);

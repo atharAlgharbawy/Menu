@@ -12,6 +12,7 @@ public class Details extends AppCompatActivity {
         setContentView(R.layout.activity_details);
 
         TextView tv_name = (TextView)findViewById(R.id.tv_namee);
+        //tv_name.setText("");
 
 
     }//on create
