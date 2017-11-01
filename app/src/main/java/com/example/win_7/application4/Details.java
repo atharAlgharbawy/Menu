@@ -11,9 +11,7 @@ public class Details extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
 
-        //String data = getIntent().getExtras().getString("eachItem");
         TextView tv_name = (TextView)findViewById(R.id.tv_namee);
-       // tv_name.setText(data);
 
 
     }//on create

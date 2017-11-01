@@ -8,7 +8,7 @@
     <!-- ========================================================-->
 
 
-    <!-- dessert name -->
+    <!-- dessert name array -->
     <string-array name="dessertName">
         <item> Cream Cheese</item>
         <item> Frozen Caramel</item>
@@ -29,7 +29,7 @@
     </string-array>
    -->
 
-    <!-- dessert desc -->
+    <!-- dessert description array-->
     <string-array name="dessertDesc">
         <item>Pretty layers of graham cracker crumbs, tasty filling and fruit topping make these cream cheese desserts a standout! For a nice change, you can substitute blueberry pie filling or another fruit flavor for the filling called for in the recipe. —Melody Mellinger, Myerstown, Pennsylvania</item>
         <item>A frozen layer of apple pie ice cream laced with caramel and sandwiched between a top and bottom layer of crunchy crushed granola bars.</item>
@@ -40,7 +40,7 @@
 
     </string-array>
 
-    <!-- dessert price -->
+    <!-- dessert price array-->
     <string-array name="dessertPrice">
         <item>45 EYG</item>
         <item>39 EYG</item>

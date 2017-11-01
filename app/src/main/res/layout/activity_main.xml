@@ -46,7 +46,7 @@
                 android:foregroundGravity="center"
                 android:layout_marginBottom="5dp"
                 android:layout_marginTop="10dp"
-                android:onClick="breakfast"
+                android:onClick="dessert"
                 app:srcCompat="@drawable/breakfast"
                 android:layout_width="80dp"
                 android:layout_height="80dp" />
@@ -61,7 +61,7 @@
                 android:foregroundGravity="center"
                 android:layout_marginBottom="5dp"
                 android:layout_marginTop="10dp"
-                android:onClick="fire"
+                android:onClick="dessert"
                 app:srcCompat="@drawable/lun" />
 
 
@@ -133,7 +133,7 @@
                 android:foregroundGravity="center"
                 android:layout_marginBottom="5dp"
                 android:layout_marginTop="10dp"
-                android:onClick="reset"
+                android:onClick="dessert"
                 app:srcCompat="@drawable/snaks"
                 android:layout_width="80dp"
                 android:layout_height="80dp" />
@@ -189,7 +189,7 @@
                 android:foregroundGravity="center"
                 android:layout_marginBottom="5dp"
                 android:layout_marginTop="10dp"
-                android:onClick="reset"
+                android:onClick="dessert"
                 app:srcCompat="@drawable/coffee"
                 android:layout_width="80dp"
                 android:layout_height="80dp" />
@@ -202,7 +202,7 @@
                 android:foregroundGravity="center"
                 android:layout_marginBottom="5dp"
                 android:layout_marginTop="10dp"
-                android:onClick="reset"
+                android:onClick="dessert"
                 app:srcCompat="@drawable/drinks"
                 android:layout_width="80dp"
                 android:layout_height="80dp" />
