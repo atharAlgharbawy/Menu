@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Application4</string>
+
+    <!-- ========================================================-->
+    <!-- ========================================================-->
+    <!-- ========================================================-->
+    <!-- ========================================================-->
+    <!-- ========================================================-->
+
+
+    <!-- dessert name -->
+    <string-array name="dessertName">
+        <item> Cream Cheese</item>
+        <item> Frozen Caramel</item>
+        <item> Chocolate Brownie</item>
+        <item> Cheesecake</item>
+        <item> Chocolate Cake</item>
+        <item> Waffles</item>
+    </string-array>
+
+    <!-- dessert pic
+    <string-array name="dessertPic">
+        <item>@drawable/cream_cheese</item>
+        <item>@drawable/frozen_cramel</item>
+        <item>@drawable/chocolate_browni</item>
+        <item>@drawable/cheescake</item>
+        <item>@drawable/chocolate_cack</item>
+        <item>@drawable/icecream</item>
+    </string-array>
+   -->
+
+    <!-- dessert desc -->
+    <string-array name="dessertDesc">
+        <item>Pretty layers of graham cracker crumbs, tasty filling and fruit topping make these cream cheese desserts a standout! For a nice change, you can substitute blueberry pie filling or another fruit flavor for the filling called for in the recipe. —Melody Mellinger, Myerstown, Pennsylvania</item>
+        <item>A frozen layer of apple pie ice cream laced with caramel and sandwiched between a top and bottom layer of crunchy crushed granola bars.</item>
+        <item>Chocolate Browni</item>
+        <item>Cheesecake</item>
+        <item>Chocolate Cake</item>
+        <item>Waffles</item>
+
+    </string-array>
+
+    <!-- dessert price -->
+    <string-array name="dessertPrice">
+        <item>45 EYG</item>
+        <item>39 EYG</item>
+        <item>40 EYG</item>
+        <item>20 EYG</item>
+        <item>42 EYG</item>
+        <item>35</item>
+    </string-array>
+</resources>
